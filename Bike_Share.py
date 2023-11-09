@@ -16,11 +16,11 @@ def background():
 background()
 
 st.write("""
-        # :sparkles: Welcome to Data Analysis Dashboard :sparkles:
+        # :sparkles: Welcome to My Dashboard :sparkles:
         """)
 
 st.write("""
-        # :bike:  Visualizing "Bike Sharing" Dataset using Interactive Charts  :bike:
+        # :bike:  Visualizing "Bike Sharing" Dataset  :bike:
         """)
 
 #Add picture
